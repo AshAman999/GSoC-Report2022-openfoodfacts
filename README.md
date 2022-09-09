@@ -22,7 +22,7 @@ Hello, I am Aman Raj, I am in my pre-final year the time when I am doing my GSoC
 - Edouard Marquez [@Github](https://github.com/g123k) [@LinkedIn](https://www.linkedin.com/in/edouard-marquez-32431514/)
 - Marvin Möltgen [@Github](https://github.com/M123-dev) [@LinkedIn](https://www.linkedin.com/in/marvin-m%C3%B6ltgen-9504391a7/)
 
-##### Also Big Thanks to Project Mainers for helping with organizing things nicely
+##### Also Big Thanks to Project Maintainers for helping with organizing things nicely
 
 - Pierre Slamich [@Github](https://github.com/teolemon) [@LinkedIn](https://www.linkedin.com/in/pierreslamich/)
 
