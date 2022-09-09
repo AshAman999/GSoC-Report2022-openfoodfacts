@@ -10,7 +10,7 @@
 | **Organisation** | [Open Food Facts](https://world.openfoodfacts.org/) |
 | **Project** | [Implement an offline mode for the new Open Food Facts Flutter application](https://summerofcode.withgoogle.com/programs/2022/projects/0B0YhUb3) |
 | **GitHub** | [@ashaman999](https://github.com/ashaman999) |
-| **LinkedIn** | [Aman Raj](https://www.linkedin.com/in/ash-aman/) |
+| **LinkedIn** | [Aman Raj](https://www.linkedin.com/in/ashaman999/) |
 | **Email** | <a href="mailto:amanpie@gmail.com">amanpie@gmail.com</a> |
 | **Website** | [https://ashaman999.github.io/ashaman/](https://ashaman999.github.io/ashaman/) |
 
