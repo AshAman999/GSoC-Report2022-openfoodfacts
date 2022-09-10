@@ -2,7 +2,7 @@
   <img src="https://pbs.twimg.com/media/FNRJpPdXsAAbSQu?format=png&name=small">
 </p>
 
-# Project: "Add an Offline Mode in OpenFoodFacts Mobile App"
+# Project: "Add an Offline Mode in [OpenFoodFacts Mobile App](https://github.com/openfoodfacts/smooth-app)"
 
 | **Student**      | Aman Raj                                                                                                                                         |
 | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
